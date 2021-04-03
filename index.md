@@ -30,7 +30,7 @@
 
 >This is a quote.
 
-`print("Hello World)`
+`print("Hello World");`
 
 
 ## About Me
